@@ -17,3 +17,9 @@ Compute the profit/loss(entry price – exit price) from this strategy and uploa
   - Install Python 3.x
   - Install requirements.txt by typing "pip install -r requirements.txt" into Command Prompt in working Directory.
   - Run the file main.py.
+
+## Screenshots
+
+| Check for Updates   | 
+| ------------- |
+| <img src="https://github.com/85599/Stock_Screen/blob/master/Screenshot%20(172).png"> 
